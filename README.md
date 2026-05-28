@@ -74,12 +74,6 @@ This portfolio is structured with:
 
 ---
 
-## 🌐 Live Demo
-
-👉 (https://portfolio-dppm.vercel.app/)
-
----
-
 ## 🙋‍♂️ About Me
 
 I’m **Sree Charan**, a Software Engineer with:
